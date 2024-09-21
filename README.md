@@ -36,7 +36,7 @@ This project scrapes cost of living data from **Numbeo** for various cities in T
 1. To run the script, simply execute the following command:
 
    ```bash
-   python main.py
+   python Web_Scrapping.py
 
 ## Results
 
